@@ -1,0 +1,179 @@
+Overview：
+Learning advice by Oracle：
+	http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getlppage?page_id=212&path=SADJ
+	http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getjobpage?page_id=306&p_jobrole_id=1#
+the official address：
+	http://www.oracle.com/technetwork/java/javaee/overview/index.html
+Spring VS JavaEE :
+	https://blog.jooq.org/2015/06/10/javaee-or-spring-neither-we-call-out-for-a-fresh-competitor/
+	https://blogs.oracle.com/reza/the-ghosts-of-java-ee-7-in-production%3a-past%2c-present-and-future-v2
+	https://spring.io/blog/2015/06/04/happy-second-birthday-java-ee-7-how-is-it-going-in-production
+	https://blogs.oracle.com/reza/the-ghosts-of-java-ee-7-in-production%3a-past%2c-present-and-future-v2
+	http://blog.rahmannet.net/2017/04/spring-java-ee-and-lilliputian-wars.html?m=1&winzoom=1
+	https://nmpallas.wordpress.com/2014/03/16/its-not-spring-anymore-is-the-summer-of-jee7-ready-for-riding-the-wave/
+	https://dzone.com/articles/why-java-ee-lost-and-spring
+	https://www.quora.com/Is-it-true-that-Spring-Framework-and-Java-EE-are-competitors
+	https://www.quora.com/What-are-the-differences-between-Java-EE-and-Spring
+	https://blogs.oracle.com/arungupta/why-is-java-ee-6-better-than-spring
+	http://www.iamjambay.com/2012/03/arun-gupta-java-ee-6-and-spring.html
+	https://plus.google.com/u/0/+MarkusEisele/posts/cpk8UhWpkqF
+	http://sivalabs.in/2015/06/a-developers-perspective-on-spring-vs-javaee/
+	http://www.onjava.com/pub/a/onjava/2005/06/29/spring-ejb3.html
+	http://www.infoq.com/cn/articles/ejb3-spring-compare
+	https://www.slideshare.net/reza_rahman/java-ee-and-spring-sidebyside-34320697
+
+Spring Fans：
+Stuff you should know :
+Servelet：
+	https://jcp.org/en/jsr/detail?id=340
+JSP：
+	https://jcp.org/en/jsr/detail?id=245
+JPA：
+	https://jcp.org/en/jsr/detail?id=338
+	
+Learning by samples
+	Online
+	Offline
+JavaEE Guardians：
+the reason why we are using javaee:
+	1、http://www.theserverside.com/definition/J2EE-Java-2-Platform-Enterprise-Edition?utm_campaign=tss_bizapps1&utm_medium=social&utm_source=twitter&utm_content=1490730887
+	2、https://community.oracle.com/docs/DOC-1008823
+	3、http://blog.rahmannet.net/2017/03/vaadin-community-survey-confirms-java.html
+
+Basic technology on the way 
+Servelet：
+	https://jcp.org/en/jsr/detail?id=340
+JSF：
+	https://jcp.org/en/jsr/detail?id=344
+JAX-RS：
+	https://jcp.org/en/jsr/detail?id=311
+CDI：
+	https://jcp.org/en/jsr/detail?id=349
+DI：
+	https://jcp.org/en/jsr/detail?id=330
+EJB3.2/EJB lite：
+	https://jcp.org/en/jsr/detail?id=345
+              https://jcp.org/en/jsr/detail?id=318
+Beanvalidation：
+	https://jcp.org/en/jsr/detail?id=349
+JPA：
+	https://jcp.org/en/jsr/detail?id=338
+Learning by samples	
+Online:
+	https://github.com/javaee/javaee7-samples/tree/master/samples
+Offline
+Dive in JavaEE （not for Spring guys）
+Learning JavaEE with Jboss –EAP7
+	Red Hat JBoss Enterprise Application Platform	
+	https://access.redhat.com/products/red-hat-jboss-enterprise-application-platform/
+	https://access.redhat.com/documentation/en/red-hat-jboss-enterprise-application-platform?version=7.0/
+	what is the different between wildfly , jboss web ,jboss eap , jboss server
+	https://github.com/jboss-developer/jboss-eap-quickstarts
+
+Learning JavaEE with Arquillian
+	Arquillian Guides
+	https://www.youtube.com/watch?v=12EwQvuv1gs
+
+learing JavaEE with real word project ：
+	
+Learning by samples	
+	Online:
+	Offline
+Javaee in the real world 
+JavaEE with microservice：
+	https://martinfowler.com/bliki/MicroservicePremium.html
+	https://developers.redhat.com/blog/2017/05/04/the-truth-about-microservices/
+	https://www.ibm.com/developerworks/cn/java/j-cn-java-and-microservice-1st/index.html
+	https://www.ibm.com/developerworks/cn/java/j-cn-java-and-microservice-5-reason/index.html
+	https://martinfowler.com/articles/microservices.html?cm_mc_uid=34013674245414737751113&cm_mc_sid_50200000=147499071
+Micorprofile：
+	http://microprofile.io/
+	http://javaeemicro.services/
+Wildfly-swarm
+	https://github.com/wildfly-swarm
+	wildfly-swarm 官网
+Payara-Mirco
+	Official address：
+		https://www.payara.fish/payara_micro
+Learning with samples
+	http://blog.payara.fish/microservices-for-java-ee-developers
+	http://blog.eisele.net/2015/10/wildfly-swarm-jax-rs-microservice-on-docker.html
+	http://www.pavel.cool/javaee/booting-Java-EE/
+	https://github.com/m-reza-rahman/javaee-pragmatic-microservices
+	https://github.com/arun-gupta/wildfly-swarm-couchbase
+	http://adambien.blog/roller/abien/entry/java_ee_and_microservice_quickstart
+	https://speakerdeck.com/ivargrimstad/microprofile-dot-io-by-example
+
+Refactor monolith to microservices
+	https://github.com/m-reza-rahman/pragmatic-microservices-lab
+	https://github.com/arun-gupta/microservices
+
+JavaEE with docker：
+	https://github.com/arun-gupta/WildFlySwarmDockerSample
+	https://developers.redhat.com/products/openshift/learn/
+JavaEE with DevOps
+	https://developers.redhat.com/topics/devops/overview/
+	https://community.oracle.com/docs/DOC-998210
+
+Tips:
+	3 Practical Ways to Be Up To Date With Java EE
+	3 Powerful Tools for Getting Involved with Java EE
+	5 Mistakes That Keep Java EE Developers Away from Great Projects
+Follow on Tweeter：
+	https://techbeacon.com/java-leaders-you-should-follow-twitter
+	Top 20 Java EE Experts to Follow on Twitter
+	https://twitter.com/Billcindy6688
+Resource：
+Official address：
+	http://www.oracle.com/technetwork/java/javaee/overview/index.html
+JCP：
+	javaee_8:
+JRS：
+	https://jcp.org/en/jsr/platform
+Community：
+	https://javaee-guardians.io/
+	https://community.oracle.com/community/java
+	https://developer.oracle.com/
+	https://developer.jboss.org/en/arquillian?view=discussions
+	https://access.redhat.com/search/#/discussions?q=&p=1&sort=lastModifiedDate%20desc&rows=12&srch=any&product=Red%20Hat%20JBoss%20Enterprise%20Application%20Platform&documentKind=Discussion
+
+GitHub：
+	https://github.com/arun-gupta
+	https://github.com/m-reza-rahman
+	https://github.com/juneau001/ExploringJavaEE7
+	https://github.com/javaee/javaee.github.io
+	https://javaee.github.io/
+	javaee_8:
+	https://javaee.github.io/javaee-spec/
+Videos:
+	https://www.pluralsight.com/courses/java-ee-getting-started
+	https://pedanticdevs.com/2017/05/new-course-the-theory-of-java-ee.html?utm_campaign=shareaholic&utm_medium=twitter&utm_source=socialnetwork
+	https://www.lynda.com/Java-tutorials/Java-EE-history-present-future/516591/566972-4.html
+	https://www.youtube.com/user/bienadam
+              https://www.youtube.com/user/koushks/playlists?sort=dd&view=50&shelf_id=7	
+             https://www.youtube.com/user/java
+		
+Tools:
+	https://jeddict.github.io/
+PDFs:
+PPTs:
+	https://www.slideshare.net/myfear/presentations
+	https://www.slideshare.net/iwasakihirofumi/seven-points-for-applying-java-ee-7
+	https://www.slideshare.net/reza_rahman/javaee-microservices/10
+
+APIs:
+	https://docs.oracle.com/javaee/7/api/toc.htm
+Blogs:
+	http://codecondo.com/10-best-java-programming-blogs-to-follow/
+	https://www.blogger.com/profile/15223266103098677143
+	http://adambien.blog/roller/abien/entry/gartner_bce_modular_jsf_monitoring
+	http://blog.eisele.net/p/about-me.html
+	https://plus.google.com/u/0/+arungupta
+
+Adoption Stories:
+	https://javaee-guardians.io/java-ee-adoption-stories/
+	http://blog.rahmannet.net/2017/04/java-ee-adoption-story-from-luqman-saeed.html
+
+
+
+
